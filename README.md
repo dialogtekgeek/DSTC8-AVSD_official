@@ -49,16 +49,16 @@ valid_set4DSTC7-AVSD.json
 test_set4DSTC7-AVSD.json
 
 **Audio feature files:**
-    -Training and validation data sets
+    1. Training and validation data sets
         -vggish.tgz 
-    -DSTC7 test set:
+    2. DSTC7 test set:
         -vggish_testset.tgz: 
 
 **Visual feature files:**
-    -Training and validation data sets:
+    1. Training and validation data sets:
         -i3d_flow.tgz 
         -i3d_rgb.tgz
-    -DSTC7 test set:
+    2. DSTC7 test set:
         -i3d_flow_testset.tgz
         -i3d_rgb_testset.tgz
 
