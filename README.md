@@ -46,5 +46,8 @@ https://drive.google.com/drive/folders/1SlZTySJAk_2tiMG5F8ivxCfOl_OWwd_Q?usp=sha
 Although a new baseline system will be released soon, the old one is available from the following link:
 https://github.com/dialogtekgeek/AudioVisualSceneAwareDialog
 
+You can find more inframtion in the following DSTC7-AVSD overview paper:
+http://workshop.colips.org/dstc7/papers/DSTC7_Task_3_overview_paper.pdf
+
 ### - Contact Information
 chori@merl.com
