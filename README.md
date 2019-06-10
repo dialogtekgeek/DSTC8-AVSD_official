@@ -2,7 +2,7 @@
 DSTC8-AVSD: Sentence generation task for Audio Visual Scene-aware Dialog 
 
 ## - Track Description
-Welcome to the follow-up challenge for Audio Visual Scene-Aware Dialog (AVSD) using Natural Langauge Generation (NLG) technologies. This challenge is one of the track for the **8th Dialog System Technology Challenges (DSTC8) workshop.**
+Welcome to the follow-up challenge for Audio Visual Scene-Aware Dialog (AVSD) using Natural Langauge Generation (NLG) technologies of the successor of DSTC7-AVSD. This challenge is one of the track for the **8th Dialog System Technology Challenges (DSTC8) workshop.**
 The task is to build a system that generates responses in a dialog about an input **video**.
 
 ### - Tasks
