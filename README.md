@@ -23,3 +23,18 @@ The quality of a system response automatically generated is evaluated using obje
     a. Do not use the input videos for training or testing. 
        Use only the text training data (dialogs and video descriptions) provided. 
     b. Any publicly available text data may also be used for training.
+    
+    
+#### Validation data set:
+
+|               |    Training    |  Validation   | DSTC7 Test    |
+| ------------- | -------------- | ------------- | ------------- |
+| # of Dialogs  |       7,659    |      1,787    |      1,710    |   
+| # of Turns    |     153,180    |     35,740    |     13,490    |
+| # of Words    |   1,450,754    |    339,006    |    110,252    |
+
+*The number of tunrs for the test set is smaller than the validation
+because they are not always full dialogs.
+
+### - Contact Information
+chori@merl.com
