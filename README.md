@@ -43,6 +43,8 @@ because they are not always full dialogs.
 You can donwload the full oficial data set and the refereces for AVSD@DSTC7 from here:
 https://drive.google.com/drive/folders/1SlZTySJAk_2tiMG5F8ivxCfOl_OWwd_Q?usp=sharing
 
+Although a new baseline system will be released soon, the old one is available from the following link:
+https://github.com/dialogtekgeek/AudioVisualSceneAwareDialog
 
 ### - Contact Information
 chori@merl.com
