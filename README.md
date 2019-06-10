@@ -44,26 +44,26 @@ You can download the full official data set and the references for AVSD@DSTC7 fr
 https://drive.google.com/drive/folders/1SlZTySJAk_2tiMG5F8ivxCfOl_OWwd_Q?usp=sharing
 
 1. **Text files:**
-   - train_set4DSTC7-AVSD.json
-   - valid_set4DSTC7-AVSD.json
-   - test_set4DSTC7-AVSD.json
+     - train_set4DSTC7-AVSD.json
+     - valid_set4DSTC7-AVSD.json
+     - test_set4DSTC7-AVSD.json
 
 2. **Audio feature files:**
-   -Training and validation data sets
-    -vggish.tgz 
-   -DSTC7 test set:
-    -vggish_testset.tgz: 
+   - Training and validation data sets
+     - vggish.tgz 
+   - DSTC7 test set:
+     - vggish_testset.tgz: 
 
 3. **Visual feature files:**
-   -Training and validation data sets:
-    -i3d_flow.tgz 
-    -i3d_rgb.tgz
-   -DSTC7 test set:
-    -i3d_flow_testset.tgz
-    -i3d_rgb_testset.tgz
+   - Training and validation data sets:
+     - i3d_flow.tgz 
+     - i3d_rgb.tgz
+   - DSTC7 test set:
+     - i3d_flow_testset.tgz
+     - i3d_rgb_testset.tgz
 
 4. **DSTC7 evalaution setup**
-   -dstc7avsd_eval.tgz
+   - dstc7avsd_eval.tgz
 
 
 Although a new baseline system will be released soon, the old one is available from the following link:
