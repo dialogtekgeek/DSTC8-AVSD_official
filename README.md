@@ -43,6 +43,31 @@ because they are not always full dialogs.
 You can download the full official data set and the references for AVSD@DSTC7 from here:
 https://drive.google.com/drive/folders/1SlZTySJAk_2tiMG5F8ivxCfOl_OWwd_Q?usp=sharing
 
+Text files:
+train_set4DSTC7-AVSD.json
+valid_set4DSTC7-AVSD.json
+test_set4DSTC7-AVSD.json
+
+Audio feature files:
+    Training and validation data sets
+        vggish.tgz 
+    DSTC7 test set:
+        vggish_testset.tgz: 
+
+Visual feature files:
+    Training and validation data sets:
+        i3d_flow.tgz 
+        i3d_rgb.tgz
+    DSTC7 test set:
+        i3d_flow_testset.tgz
+        i3d_rgb_testset.tgz
+
+DSTC7 evalaution setup
+    dstc7avsd_eval.tgz
+
+
+
+
 Although a new baseline system will be released soon, the old one is available from the following link:
 https://github.com/dialogtekgeek/AudioVisualSceneAwareDialog
 
