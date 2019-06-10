@@ -27,7 +27,11 @@ The quality of a system response automatically generated is evaluated using obje
     
 #### Validation data set:
 
-|               |    Training    |  Validation   | DSTC7 Test    |
+Please train models using the training data set only.
+You con tune the parameters ugint he validation set and confirm the performance of your systems using the DSTC7 test sets.
+Notes: The official challenge doesn't allow you to use the DSTC7 test set to tune your models.
+
+|               |    Training    |  Validation   |   DSTC7 Test  |
 | ------------- | -------------- | ------------- | ------------- |
 | # of Dialogs  |       7,659    |      1,787    |      1,710    |   
 | # of Turns    |     153,180    |     35,740    |     13,490    |
@@ -35,6 +39,10 @@ The quality of a system response automatically generated is evaluated using obje
 
 *The number of tunrs for the test set is smaller than the validation
 because they are not always full dialogs.
+
+You can donwload the full oficial data set and the refereces for AVSD@DSTC7 from here:
+https://drive.google.com/drive/folders/1SlZTySJAk_2tiMG5F8ivxCfOl_OWwd_Q?usp=sharing
+
 
 ### - Contact Information
 chori@merl.com
