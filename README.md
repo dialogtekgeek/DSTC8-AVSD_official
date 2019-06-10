@@ -49,21 +49,21 @@ https://drive.google.com/drive/folders/1SlZTySJAk_2tiMG5F8ivxCfOl_OWwd_Q?usp=sha
     - test_set4DSTC7-AVSD.json
 
 2. **Audio feature files:**
-    Training and validation data sets
+    -Training and validation data sets
         -vggish.tgz 
-    DSTC7 test set:
+    -DSTC7 test set:
         -vggish_testset.tgz: 
 
 3. **Visual feature files:**
-    Training and validation data sets:
+    -Training and validation data sets:
         -i3d_flow.tgz 
         -i3d_rgb.tgz
-    DSTC7 test set:
+    -DSTC7 test set:
         -i3d_flow_testset.tgz
         -i3d_rgb_testset.tgz
 
 4. **DSTC7 evalaution setup**
-    dstc7avsd_eval.tgz
+    -dstc7avsd_eval.tgz
 
 
 Although a new baseline system will be released soon, the old one is available from the following link:
