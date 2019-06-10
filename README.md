@@ -2,14 +2,14 @@
 DSTC8-AVSD: Sentence generation task for Audio Visual Scene-aware Dialog 
 
 ## - Track Description
-Welcome to the follow-up challenge for Audio Visual Scene-Aware Dialog (AVSD) using Natural Langauge Generation (NLG) technologies of the successor of DSTC7-AVSD. This challenge is one of the track for the **8th Dialog System Technology Challenges (DSTC8) workshop.**
+Welcome to the follow-up challenge for Audio Visual Scene-Aware Dialog (AVSD) using Natural Language Generation (NLG) technologies of the successor of DSTC7-AVSD. This challenge is one of the track for the **8th Dialog System Technology Challenges (DSTC8) workshop.**
 The task is to build a system that generates responses in a dialog about an input **video**.
 
 ### - Tasks
 
-In this challenge, systems are reuiqred to generate responses to a user input in the context of a given dialog.  
+In this challenge, systems are required to generate responses to a user input in the context of a given dialog.  
 This context consists of a dialog history (previous utterances between both user and system) in addition to video and audio information that comprise the scene. 
-The quality of a system response automatically generated is evaluated using objective measures to see how good the generated responses are in terms of the naturalness and informativeness.
+The quality of a system response automatically generated will be evaluated using objective measures to see how good the generated responses are in terms of the naturalness and informativeness.
 
 #### 1. Task 1: Video and Text 
     a. Use the video and text training data provided but no external data sources, 
@@ -28,7 +28,7 @@ The quality of a system response automatically generated is evaluated using obje
 #### Validation data set:
 
 Please train models using the training data set only.
-You con tune the parameters ugint he validation set and confirm the performance of your systems using the DSTC7 test sets.
+You can tune the parameters using the validation set and confirm the performance of your systems using the DSTC7 test sets.
 Notes: The official challenge doesn't allow you to use the DSTC7 test set to tune your models.
 
 |               |    Training    |  Validation   |   DSTC7 Test  |
@@ -40,14 +40,15 @@ Notes: The official challenge doesn't allow you to use the DSTC7 test set to tun
 *The number of tunrs for the test set is smaller than the validation
 because they are not always full dialogs.
 
-You can donwload the full oficial data set and the refereces for AVSD@DSTC7 from here:
+You can download the full official data set and the references for AVSD@DSTC7 from here:
 https://drive.google.com/drive/folders/1SlZTySJAk_2tiMG5F8ivxCfOl_OWwd_Q?usp=sharing
 
 Although a new baseline system will be released soon, the old one is available from the following link:
 https://github.com/dialogtekgeek/AudioVisualSceneAwareDialog
 
-You can find more inframtion in the following DSTC7-AVSD overview paper:
+You can find more information in the following DSTC7-AVSD overview paper:
 http://workshop.colips.org/dstc7/papers/DSTC7_Task_3_overview_paper.pdf
 
 ### - Contact Information
 chori@merl.com
+
