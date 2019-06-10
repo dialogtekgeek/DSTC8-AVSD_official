@@ -48,13 +48,13 @@ https://drive.google.com/drive/folders/1SlZTySJAk_2tiMG5F8ivxCfOl_OWwd_Q?usp=sha
     - valid_set4DSTC7-AVSD.json
     - test_set4DSTC7-AVSD.json
 
-1.**Audio feature files:**
+2. **Audio feature files:**
     Training and validation data sets
         -vggish.tgz 
     DSTC7 test set:
         -vggish_testset.tgz: 
 
-2. **Visual feature files:**
+3. **Visual feature files:**
     Training and validation data sets:
         -i3d_flow.tgz 
         -i3d_rgb.tgz
@@ -62,14 +62,9 @@ https://drive.google.com/drive/folders/1SlZTySJAk_2tiMG5F8ivxCfOl_OWwd_Q?usp=sha
         -i3d_flow_testset.tgz
         -i3d_rgb_testset.tgz
 
-3. **DSTC7 evalaution setup**
+4. **DSTC7 evalaution setup**
     dstc7avsd_eval.tgz
 
-
-1. First list item
-    - First nested list item
-    - Second nested list item
-    
 
 Although a new baseline system will be released soon, the old one is available from the following link:
 https://github.com/dialogtekgeek/AudioVisualSceneAwareDialog
