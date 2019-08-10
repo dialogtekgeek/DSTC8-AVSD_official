@@ -1,13 +1,18 @@
 # DSTC8-AVSD
 DSTC8-AVSD: Sentence generation task for Audio Visual Scene-aware Dialog 
 
+## NEWS
+The multiple references for the DSTC7 AVSD test set in the following file:
+https://drive.google.com/file/d/1nz9Pu9YIfuZHzowhASXERajRXqE6DBQx/view?usp=sharing
+dstc7avsd_eval.tgz 
+
 ## - Track Description
 Welcome to the follow-up challenge for Audio Visual Scene-Aware Dialog (AVSD) using Natural Language Generation (NLG) technologies of the successor of DSTC7-AVSD. This challenge is one of the track for the **8th Dialog System Technology Challenges (DSTC8) workshop.**
 The task is to build a system that generates responses in a dialog about an input **video**.
 
 ### - Tasks
 
-In this challenge, systems are required to generate responses to a user input in the context of a given dialog.  
+In this challenge, systems are required to generate responses to user input in the context of a given dialog.  
 This context consists of a dialog history (previous utterances between both user and system) in addition to video and audio information that comprise the scene. 
 The quality of a system response automatically generated will be evaluated using objective measures to see how good the generated responses are in terms of the naturalness and informativeness.
 
@@ -37,7 +42,7 @@ Notes: The official challenge doesn't allow you to use the DSTC7 test set to tun
 | # of Turns    |     153,180    |     35,740    |     13,490    |
 | # of Words    |   1,450,754    |    339,006    |    110,252    |
 
-*The number of tunrs for the test set is smaller than the validation
+*The number of turns for the test set is smaller than the validation
 because they are not always full dialogs.
 
 You can download the full official data set and the references for AVSD@DSTC7 from here:
@@ -62,7 +67,7 @@ https://drive.google.com/drive/folders/1SlZTySJAk_2tiMG5F8ivxCfOl_OWwd_Q?usp=sha
      - i3d_flow_testset.tgz
      - i3d_rgb_testset.tgz
 
-4. **DSTC7 evalaution setup**
+4. **DSTC7 evaluation setup**
    - dstc7avsd_eval.tgz
 
 
@@ -74,4 +79,3 @@ http://workshop.colips.org/dstc7/papers/DSTC7_Task_3_overview_paper.pdf
 
 ### - Contact Information
 chori@merl.com, cherian@merl.com, tkmarks@merl.com
-
