@@ -3,8 +3,22 @@ DSTC8-AVSD: Sentence generation task for Audio Visual Scene-aware Dialog
 
 ## NEWS
 
-Now the test data is available from the following link:
-https://drive.google.com/file/d/1IYAoCuaKDwzRJURArHh9MHU4HPRYdewo/view?usp=sharing
+ https://docs.google.com/forms/d/e/1FAIpQLScbTSq9P3d_o_2aK2IKvFmrEJ3-xdORspxNyt3NcQ3oiuA8Bw/viewform
+ 
+
+###
+1. Please register the challenge from the following link:
+
+   https://docs.google.com/forms/d/e/1FAIpQLScbTSq9P3d_o_2aK2IKvFmrEJ3-xdORspxNyt3NcQ3oiuA8Bw/viewform
+
+2. You can find the test sets from the following link: 
+
+   https://drive.google.com/file/d/1IYAoCuaKDwzRJURArHh9MHU4HPRYdewo/view?usp=sharing
+
+3. Please note that we cannot use the DSTC7 test sets for any purposes for DSTC8.
+
+4. When you will submit the systems, please clarify training with or without the summary and caption.
+###
 
 "Any features" extracted from the given videos can be used at DSTC7 and DSTC8.
 
