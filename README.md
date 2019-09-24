@@ -10,7 +10,7 @@ Test sets are now Releasing!!!
 
    https://docs.google.com/forms/d/e/1FAIpQLScbTSq9P3d_o_2aK2IKvFmrEJ3-xdORspxNyt3NcQ3oiuA8Bw/viewform
 
-2. You can find the test sets from the following link: 
+2. You can find the test sets here: 
 
    https://drive.google.com/file/d/1IYAoCuaKDwzRJURArHh9MHU4HPRYdewo/view?usp=sharing
 
