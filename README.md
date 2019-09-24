@@ -3,7 +3,7 @@ DSTC8-AVSD: Sentence generation task for Audio Visual Scene-aware Dialog
 
 ## NEWS
 
-Now the test data is available from the following directory:
+Now the test data is available from the following link:
 https://drive.google.com/file/d/1IYAoCuaKDwzRJURArHh9MHU4HPRYdewo/view?usp=sharing
 
 "Any features" extracted from the given videos can be used at DSTC7 and DSTC8.
