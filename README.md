@@ -6,6 +6,7 @@ DSTC8-AVSD: Sentence generation task for Audio Visual Scene-aware Dialog 
 Test sets are now Releasing!!! 
 
 Submission format
+
 Please fill your answers into __UNDISCLOSED__ below:
 
 ```
