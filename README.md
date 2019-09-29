@@ -8,7 +8,8 @@ Test sets are now Releasing!!!
 Submission format
 Please fill your answers into __UNDISCLOSED__ below:
 
-  -----------------------------------------------------------------------------------------------------------
+```
+-----------------------------------------------------------------------------------------------------------
   "dialog" : [
               {
                  "answer" : "no and it is a window that he is standing in front of .",
@@ -19,8 +20,8 @@ Please fill your answers into __UNDISCLOSED__ below:
                  "question" : "is he looking at something outside the window ?"
               }
            ]
-  ----------------------------------------------------------------------------------------------------------
-
+----------------------------------------------------------------------------------------------------------
+```
 
 ###
 1. Please register the challenge from the following link:
