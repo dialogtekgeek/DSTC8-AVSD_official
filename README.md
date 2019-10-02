@@ -120,7 +120,7 @@ You can find more information in the following DSTC7-AVSD overview paper:
 http://workshop.colips.org/dstc7/papers/DSTC7_Task_3_overview_paper.pdf
 
 ### - Contact Information
-chori@merl.com, cherian@merl.com, tkmarks@merl.com
+chori@merl.com
 
 -- 
 Chiori Hori
