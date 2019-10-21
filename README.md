@@ -3,6 +3,11 @@ DSTC8-AVSD: Sentence generation task for Audio Visual Scene-aware Dialog 
 
 ## NEWS
 
+The objective evaluation was done and the results were released to the participants!
+
+The data sets for AVSD@DSTC8 is only limited used by the participants who submitted the results to the official challenge.
+If you got the data but not submitted your results to the challenge,
+please hold your publishing your number for AVSD@DSTC8 until the data will be publicly available on April 1st, 2020.
 Submission site is now open:
 
 https://docs.google.com/forms/d/e/1FAIpQLSdZizy9H143VQ2nGihha38ncJVLLMMSP55zCT7ls5aeBNSy1A/viewform
