@@ -7,7 +7,7 @@ To let you submit a full paper (8 pages + citation) of your experiments to CVPR2
 
 --------------------------------------------------------------------------------------------------------------------------
 The submission of your system description to DSTC8@AAAI2020 is mandatory.
-*If you will not submit your paper to the DSTC8 workshop, you cannot submit any papers using the AVSD@DSTC8 data set until April 1st in 2020.* 
+If you will not submit your paper to the DSTC8 workshop, you cannot submit any papers using the AVSD@DSTC8 data set until April 1st in 2020. 
  -------------------------------------------------------------------------------------------------------------------------- 
 
 1.  Workshop paper (2-3 pages system description + 1page for citation):
