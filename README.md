@@ -3,6 +3,29 @@ DSTC8-AVSD: Sentence generation task for Audio Visual Scene-aware Dialog 
 
 ## NEWS
 
+To let you submit a full paper (8 pages + citation) of your experiments to CVPR2020, we will accept an AVSD@DSTC8 workshop paper (2-3 pages + citation) which is a subset of the full paper for CVPR2020.
+
+1.  Workshop paper (2-3 pages system description + 1page for citation):
+
+Please use the following AAAI Author Kit:                     
+
+https://www.google.com/urlq=https%3A%2F%2Fwww.aaai.org%2FPublications%2FTemplates%2FAuthorKit20.zip&sa=D&sntz=1&usg=AFQjCNHXkMmYCW9vh4GO1hHKCp12KAf-oA)
+
+Please submit your paper to the following site:                     
+
+https://www.google.com/urlq=https%3A%2F%2Fcmt3.research.microsoft.com%2FDSTC82020%2FSubmission%2FIndex&sa=D&sntz=1&usg=AFQjCNFX_OkwQGd5g2J8B9_6dGxPk8slUQ
+
+And then:2. CVPR2020 paper (Full paper including 1 and more experiments and analysis)
+
+Please use the following CVPR Author Kit:                    
+
+http://cvpr2020.thecvf.com/sites/default/files/2019-09/cvpr2020AuthorKit.zip
+
+Please submit your paper to the following link:                    
+
+https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FCVPR2020  
+
+
 The objective evaluation was done and the results were released to the participants 10/21/2019 !
 
 The data sets for AVSD@DSTC8 is only limited used by the participants who submitted the results to the official challenge.
