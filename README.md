@@ -11,7 +11,7 @@ If you will not submit your paper to the DSTC8 workshop,
 you cannot submit any papers using the AVSD@DSTC8 data set until April 1st in 2020. 
 ```
 
-1.  Workshop paper (2-3 pages system description + 1page for citation):
+1.  AVSD@DSTC8 Workshop paper (2-3 pages system description + 1page for citation):
 
 Please use the following AAAI Author Kit:                     
 
