@@ -11,7 +11,7 @@ If you will not submit your paper to the DSTC8 workshop,
 you cannot submit any papers using the AVSD@DSTC8 data set until April 1st in 2020. 
 ```
 
-1.  AVSD@DSTC8 Workshop paper (2-3 pages system description + 1page for citation):
+### 1.  AVSD@DSTC8 Workshop paper (2-3 pages system description + 1page for citation):
 
 Please use the following AAAI Author Kit:                     
 
@@ -21,7 +21,7 @@ Please submit your paper to the following site:                     
 
 https://www.google.com/urlq=https%3A%2F%2Fcmt3.research.microsoft.com%2FDSTC82020%2FSubmission%2FIndex&sa=D&sntz=1&usg=AFQjCNFX_OkwQGd5g2J8B9_6dGxPk8slUQ
 
-2.  CVPR2020 paper (Full paper including 1 and more experiments and analysis)
+### 2.  CVPR2020 paper (Full paper including 1 and more experiments and analysis)
 
 Please use the following CVPR Author Kit:                    
 
@@ -32,6 +32,9 @@ Please submit your paper to the following link:                    
 https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FCVPR2020  
 
 
+## Evaluation Resutls
+The evaluation toolkit for AVSD@DSTC is now releasing to the challenge participants.
+The human evaluation was done by 5 humans.
 The objective evaluation was done and the results were released to the participants 10/21/2019 !
 
 The data sets for AVSD@DSTC8 is only limited used by the participants who submitted the results to the official challenge.
