@@ -4,7 +4,11 @@ DSTC8-AVSD: Sentence generation task for Audio Visual Scene-aware Dialog 
 ## NEWS
 
 You can evaluate your results using the following evaluation tool:
+AVSD@DSTC8
 https://drive.google.com/file/d/1EKfPtrNBQ5ciKRl6XggImweGRP84XuPi/view?usp=sharing
+
+AVSD@DSTC7
+https://drive.google.com/open?id=1nz9Pu9YIfuZHzowhASXERajRXqE6DBQx
 
 April 1st, 2020: All data is now publicly available.
 
