@@ -3,6 +3,9 @@ DSTC8-AVSD: Sentence generation task for Audio Visual Scene-aware Dialog 
 
 ## NEWS
 
+You can evaluate your results using the following evaluation tool:
+https://drive.google.com/file/d/1EKfPtrNBQ5ciKRl6XggImweGRP84XuPi/view?usp=sharing
+
 April 1st, 2020: All data is now publicly available.
 
 To let you submit a full paper (8 pages + citation) of your experiments to CVPR2020, we will accept an AVSD@DSTC8 workshop paper (2-3 pages + citation) which is a subset of the full paper for CVPR2020.
