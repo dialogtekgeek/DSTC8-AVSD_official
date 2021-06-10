@@ -1,4 +1,4 @@
-# DSTC8-AVSD
+# DSTC8-AVSD Official
 DSTC8-AVSD: Sentence generation task for Audio Visual Scene-aware Dialog 
 
 ## NEWS
